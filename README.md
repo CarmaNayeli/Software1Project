@@ -1,4 +1,5 @@
 Sanctuary
+
 A creature collection and habitat restoration game with strategic type compatibility mechanics.
 Story
 You are a newly hired Habitat Specialist at a once-renowned sanctuary. Years of neglect have left the sanctuary in ruins - the habitats are damaged, and all the creatures have fled into the surrounding wilderness.
