@@ -1,5 +1,4 @@
-**Sanctuary
-**
+**Creature Sanctuary**
 A creature collection and habitat restoration game with strategic type compatibility mechanics.
 
 **Story:**
